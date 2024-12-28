@@ -1,0 +1,13 @@
+    .red-bx {
+width: 200px;
+height: 350px;
+color: cadetblue;
+    }
+    .box {
+        background: var(--nav-main);
+        font-size: 2.5rem;
+        padding: 50px 50px;
+        position: relative;
+        transform: translate(50% 50%);
+        margin: 50% 50%;
+    }
